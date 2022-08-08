@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   totalHeight: {
     height: ScreenHeight,
     position: "relative",
-    zIndex: 1,
+    zIndex: 2,
   },
 });
 export default function App() {
